@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SC 02 - Operation Float,,,,2023-07-17 17:35:48,2023-07-17 17:37:18,1m - 30.882s,PASSED
+,,,,,,,
+Test Cases/SC02 - Operations with Float Numbers/TC005 - Decimal Operation - Multiplication,,,,2023-07-17 17:35:48,2023-07-17 17:37:18,1m - 30.714s,PASSED
+"startApplication(""C:\Users\zaena\Desktop\Calculator_v8.1.apk"", true)",,,,2023-07-17 17:35:48,2023-07-17 17:35:56,8.187s,PASSED
+"tap(findTestObject(""Main Calc Button/android.widget.Button - 0""), 0)",,,,2023-07-17 17:35:56,2023-07-17 17:36:06,10.351s,PASSED
+"tap(findTestObject(""Main Calc Button/Decimal Marker""), 0)",,,,2023-07-17 17:36:06,2023-07-17 17:36:17,10.217s,PASSED
+"tap(findTestObject(""Main Calc Button/android.widget.Button - 2""), 0)",,,,2023-07-17 17:36:17,2023-07-17 17:36:27,10.169s,PASSED
+"tap(findTestObject(""Main Calc Button/android.widget.Button - 8""), 0)",,,,2023-07-17 17:36:27,2023-07-17 17:36:37,10.186s,PASSED
+"tap(findTestObject(""Main Calc Button/android.widget.Button - 5""), 0)",,,,2023-07-17 17:36:37,2023-07-17 17:36:47,10.162s,PASSED
+"tap(findTestObject(""Main Calc Button/Buttton (Multiplication)""), 0)",,,,2023-07-17 17:36:47,2023-07-17 17:36:57,10.182s,PASSED
+"tap(findTestObject(""Object Repository/Main Calc Button/android.widget.Button - 5""), 0)",,,,2023-07-17 17:36:57,2023-07-17 17:37:08,10.200s,PASSED
+"tap(findTestObject(""Object Repository/Main Calc Button/Button Result""), 0)",,,,2023-07-17 17:37:08,2023-07-17 17:37:18,10.180s,PASSED
+closeApplication(),,,,2023-07-17 17:37:18,2023-07-17 17:37:18,0.651s,PASSED

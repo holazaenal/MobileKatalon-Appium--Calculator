@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\Users\\zaena\\Desktop\\Calculator_v8.1.apk'</initValue>
+      <name>InstallApp</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

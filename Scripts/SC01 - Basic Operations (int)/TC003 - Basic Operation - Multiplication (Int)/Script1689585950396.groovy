@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\zaena\\Desktop\\Calculator_v8.1.apk', true)
+Mobile.startApplication(GlobalVariable.InstallApp, true)
 
 Mobile.tap(findTestObject('Object Repository/Main Calc Button/android.widget.Button - 1'), 0)
 
